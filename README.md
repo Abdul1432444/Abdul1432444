@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 Hi, I'm Abdul Wahab  
 
-<!--
-**Abdul1432444/Abdul1432444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 MERN Stack Developer | 🎓 MSc Graduate  
+📍 Peshawar, Pakistan  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+- 💡 Passionate about Full Stack Development  
+- 🔥 Skilled in MERN Stack  
+- 🎯 Looking for Internship Opportunities  
+- 📚 Always learning new technologies  
+
+---
+
+## 🛠️ Tech Stack  
+
+### 💻 Frontend  
+⚛️ React.js | 🟨 JavaScript | 🌐 HTML | 🎨 CSS | 🌬️ Tailwind  
+
+### ⚙️ Backend  
+🟢 Node.js | 🚂 Express.js  
+
+### 🗄️ Database  
+🍃 MongoDB  
+
+---
+
+## 🚀 Projects  
+
+### 🛒 E-Commerce MERN App  
+🔗 Live Demo: https://your-link  
+💻 GitHub: https://github.com/your-repo  
+
+---
+
+### 📝 Todo App  
+🔗 Live Demo: https://your-link  
+💻 GitHub: https://github.com/your-repo  
+
+---
+
+## 📊 GitHub Stats  
+
+![stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me  
+
+📧 your-abdulwahab9357@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/abdul-wahab-68a40b263/
+---
+
+💡 *"Code. Learn. Build. Repeat."* 🚀
